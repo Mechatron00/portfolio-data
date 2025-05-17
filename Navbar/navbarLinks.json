@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Home",
+    "icon": " <IconHome className=\"h-full w-full text-neutral-500 dark:text-neutral-300\" />",
+    "href": "/home"
+  },
+  {
+    "title": "Projects",
+    "icon": "<IconDeviceLaptop className=\"h-full w-full text-neutral-500 dark:text-neutral-300\" />",
+    "href": "/projects"
+  },
+  {
+    "title": "About",
+    "icon": " <IconUser className=\"h-full w-full text-neutral-500 dark:text-neutral-300\" />",
+    "href": "/about"
+  },
+  {
+    "title": "Contact",
+    "icon": " <IconBrandTelegram className=\"h-full w-full text-neutral-500 dark:text-neutral-300\" />",
+    "href": "/contact"
+  }
+]
