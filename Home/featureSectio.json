@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Connect with me",
+    "description": "I am available on all the platforms. You can reach out to me anytime.",
+    "icon": "<IconBrandTelegram />",
+    "links": [
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/dineshdixit/",
+        "icon": "<IconBrandLinkedin />"
+      },
+      {
+        "title": "Github",
+        "href": "https://www.linkedin.com/in/dineshdixit/",
+        "icon": "<IconBrandGithub />"
+      },
+      {
+        "title": "Dev",
+        "href": "https://t.me/dineshdixit",
+        "icon": "<FaDev className=\"h-5 w-5 text-white\" />"
+      }
+    ]
+  },
+  {
+    "title": "Open to Collaboration",
+    "description": "I’m open to collaboration and always happy to help in my free time. I’m looking for opportunities to work with like-minded people.",
+    "icon": "<IconBriefcase />"
+  },
+  {
+    "title": "My Creative World",
+    "description": "Explore my creative hobbies, passion projects,and the little things that inspire me every day.",
+    "icon": "<BsGlobeCentralSouthAsia />",
+    "links": [
+      {
+        "title": "Unsplash",
+        "href": "https://unsplash.com/@dineshdixit",
+        "icon": "<FaUnsplash className=\"h-5 w-5 text-white\" />"
+      },
+      {
+        "title": "Pinterest",
+        "href": "https://t.me/dineshdixit",
+        "icon": "<IconBrandPinterest />"
+      },
+      {
+        "title": "Photography",
+        "href": "https://t.me/dineshdixit",
+        "icon": "<CgWebsite className=\"h-5 w-5\" />"
+      }
+    ]
+  },
+  {
+    "title": "This Website",
+    "description": "<span>\n          &copy; 2025 Dinesh Dixit.All rights reserved. <br />\n          Aside from my creativity, what helps me built this website?\n        </span>",
+    "icon": "<IconCloud />",
+    "links": [
+      {
+        "title": "Aceternity UI",
+        "href": "https://ui.aceternity.com/",
+        "icon": "<img\n              src=\"https://assets.aceternity.com/logo-dark.png\"\n              width={20}\n              height={20}\n              alt=\"Aceternity Logo\"\n            />"
+      },
+      {
+        "title": "Freepik",
+        "href": "https://www.freepik.com/",
+        "icon": "<SiFreepik className=\"h-5 w-5 text-white\" />"
+      }
+    ]
+  }
+]
