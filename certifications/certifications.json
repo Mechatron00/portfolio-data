@@ -1,0 +1,101 @@
+[
+  {
+    "title": "CSS Essential Training",
+    "description": "Certificate for CSS fundamentals and best practices.",
+    "src": "https://mechatron00.github.io/portfolio-data/images/certificates/1.jpg",
+    "ctaText": "View Certificate",
+    "ctaLink": "/certificates/1.jpg"
+  },
+  {
+    "title": "Angular Essential Training",
+    "description": "Certificate showcasing knowledge of Angular framework.",
+    "src": "https://mechatron00.github.io/portfolio-data/images/certificates/2.jpg",
+    "ctaText": "View Certificate",
+    "ctaLink": "/certificates/2.jpg"
+  },
+  {
+    "title": "Web Development with Angular",
+    "description": "Certificate for web development using Angular.",
+    "src": "https://mechatron00.github.io/portfolio-data/images/certificates/3.jpg",
+    "ctaText": "View Certificate",
+    "ctaLink": "/certificates/2.jpg"
+  },
+  {
+    "title": "Angular:Creating and hosting",
+    "description": "Certificate for hosting Angular applications.",
+    "src": "https://mechatron00.github.io/portfolio-data/images/certificates/4.jpg",
+    "ctaText": "View Certificate",
+    "ctaLink": "/certificates/2.jpg"
+  },
+  {
+    "title": "Angular:Testing and Debugging",
+    "description": "Certificate for testing and debugging Angular applications.",
+    "src": "https://mechatron00.github.io/portfolio-data/images/certificates/5.jpg",
+    "ctaText": "View Certificate",
+    "ctaLink": "/certificates/2.jpg"
+  },
+  {
+    "title": "Java Fullstack ",
+    "description": "Offline training certificate for Java Fullstack development. Completed a fullstack Java development course from SSPU.",
+    "src": "https://mechatron00.github.io/portfolio-data/images/certificates/6.jpg",
+    "ctaText": "View Certificate",
+    "ctaLink": ""
+  },
+  {
+    "title": "HTML Essential Training",
+    "description": "Certificate for HTML fundamentals and best practices.",
+
+    "src": "https://mechatron00.github.io/portfolio-data/images/certificates/7.jpg",
+    "ctaText": "View Certificate",
+    "ctaLink": "/certificates/2.jpg"
+  },
+  {
+    "title": "Java 8 ",
+    "description": "Certificate for Java 8 programming practices and updates.",
+    "src": "https://mechatron00.github.io/portfolio-data/images/certificates/8.jpg",
+    "ctaText": "View Certificate",
+    "ctaLink": "/certificates/2.jpg"
+  },
+  {
+    "title": "Javascript 2019",
+    "description": "Certificate for JavaScript 2019.",
+    "src": "https://mechatron00.github.io/portfolio-data/images/certificates/9.jpg",
+    "ctaText": "View Certificate",
+    "ctaLink": "/certificates/2.jpg"
+  },
+  {
+    "title": "Javascript Essential Training",
+    "description": "Certificate for JavaScript fundamentals and best practices.",
+    "src": "/certificates/2.jpghttps://mechatron00.github.io/portfolio-data/images/certificates/10.jpg",
+    "ctaText": "View Certificate",
+    "ctaLink": "/certificates/2.jpg"
+  },
+  {
+    "title": "Advance Javascript",
+    "description": "Certificate for advanced JavaScript programming.",
+    "src": "https://mechatron00.github.io/portfolio-data/images/certificates/11.jpg",
+    "ctaText": "View Certificate",
+    "ctaLink": "/certificates/2.jpg"
+  },
+  {
+    "title": "SDLC",
+    "description": "Certificate for Software Development Life Cycle.",
+    "src": "https://mechatron00.github.io/portfolio-data/images/certificates/12.jpg",
+    "ctaText": "View Certificate",
+    "ctaLink": "/certificates/2.jpg"
+  },
+  {
+    "title": "Websockets",
+    "description": "Certificate for Websockets connection.",
+    "src": "https://mechatron00.github.io/portfolio-data/images/certificates/13.jpg",
+    "ctaText": "View Certificate",
+    "ctaLink": "/certificates/2.jpg"
+  },
+  {
+    "title": "Javascript",
+    "description": "Certificate for JavaScript programming.",
+    "src": "https://mechatron00.github.io/portfolio-data/images/certificates/14.jpg",
+    "ctaText": "View Certificate",
+    "ctaLink": ""
+  }
+]
