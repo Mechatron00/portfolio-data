@@ -1,0 +1,10 @@
+{
+  "revealText1": {
+    "text1": "This is the first testimonial text. It highlights the excellent service and quality provided by the company.",
+    "highlightedText": "John Doe",
+    "text2": "2023-01-15"
+  },
+  "revealText2": {
+    "text": "This is the first testimonial text. It highlights the excellent service and quality provided by the company."
+  }
+}
