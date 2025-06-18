@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Resume Builder Fullstack",
+    "description": "A full-stack application that allows users to create dashboard and download their resume in PDF format.",
+    "icon": ["java", "angular", "database"],
+    "bg": "bg-indigo-800",
+    "link": "https://live-weather-info.web.app/",
+    "thumbnail": "https://mechatron-portfolio.web.app/assets/project-images/resume-builder.png"
+  }
+]
