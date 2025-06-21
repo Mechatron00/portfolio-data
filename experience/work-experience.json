@@ -13,23 +13,28 @@
     "stickyContent": [
       {
         "title": "Collaborative development",
-        "description": "While I'm a solid Code Hermit, I'm also a strong team player. I've learned how to work effectively in a team, communicate clearly, and collaborate with others. I stay in the loop, align closely with QA, and integrate seamlessly with the team to achieve shared goals."
+        "description": "While I'm a solid Code Hermit, I'm also a strong team player. I've learned how to work effectively in a team, communicate clearly, and collaborate with others. I stay in the loop, align closely with QA, and integrate seamlessly with the team to achieve shared goals.",
+        "src": "https://mechatron00.github.io/portfolio-data/work/hoerbiger/collab.jpg"
       },
       {
         "title": "Real time changes",
-        "description": "I’m comfortable working in environments where code changes happen live and fast. Whether it’s pair programming, live share sessions, or collaborative commits, I stay sharp, communicate clearly, and adapt on the fly. Real-time coding keeps the momentum going, and I know how to keep things clean, conflict-free, and moving forward."
+        "description": "I’m comfortable working in environments where code changes happen live and fast. Whether it’s pair programming, live share sessions, or collaborative commits, I stay sharp, communicate clearly, and adapt on the fly. Real-time coding keeps the momentum going, and I know how to keep things clean, conflict-free, and moving forward.",
+        "src": "https://mechatron00.github.io/portfolio-data/work/hoerbiger/realTimeChanges.jpg"
       },
       {
         "title": "Version control",
-        "description": "I'm fluent in using Git for managing real-time code changes across collaborative projects. From branching strategies to conflict resolution, I ensure smooth merges and clean commit histories. I stay synced with the team, handle pull requests efficiently, and keep the codebase stable even in fast-paced environments. Real-time collaboration, without the chaos."
+        "description": "I'm fluent in using Git for managing real-time code changes across collaborative projects. From branching strategies to conflict resolution, I ensure smooth merges and clean commit histories. I stay synced with the team, handle pull requests efficiently, and keep the codebase stable even in fast-paced environments. Real-time collaboration, without the chaos.",
+        "src": "https://mechatron00.github.io/portfolio-data/work/hoerbiger/versionControl.jpg"
       },
       {
         "title": "DevOps with Azure",
-        "description": "I'm getting hands-on with Azure DevOps — setting up pipelines, managing builds, and figuring out how to automate deployments. Still learning the ropes, but every commit is a step closer to smoother, smarter delivery."
+        "description": "I'm getting hands-on with Azure DevOps — setting up pipelines, managing builds, and figuring out how to automate deployments. Still learning the ropes, but every commit is a step closer to smoother, smarter delivery.",
+        "src": "https://mechatron00.github.io/portfolio-data/work/hoerbiger/devops.jpg"
       },
       {
         "title": "Bug Fixing & Debugging",
-        "description": "I'm sharpening my skills in debugging and bug fixing — from reading error logs to tracing issues through the codebase. I enjoy digging into problems, understanding what’s really going on, and finding clean, reliable fixes. Every bug is a chance to learn more and write better code."
+        "description": "I'm sharpening my skills in debugging and bug fixing — from reading error logs to tracing issues through the codebase. I enjoy digging into problems, understanding what’s really going on, and finding clean, reliable fixes. Every bug is a chance to learn more and write better code.",
+        "src": "https://mechatron00.github.io/portfolio-data/work/hoerbiger/debuggingAndbugFixing.jpg"
       }
     ]
   }
