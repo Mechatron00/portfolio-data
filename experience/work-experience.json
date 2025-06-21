@@ -7,41 +7,7 @@
     "location": "Pune, India",
     "description": "As a Software Engineer at Hoerbiger, I’m diving deep into the world of real-time code changes and collaborative development. My focus is on mastering the tools and practices that make teamwork seamless, from version control with Git to DevOps with Azure. I’m all about writing clean, efficient code while staying in sync with my team, ensuring that every commit is a step towards better software delivery.",
     "src": "https://mechatron00.github.io/portfolio-data/images/hoerbiger.png",
-    "ctaText": "View Company",
-    "ctaLink": "https://www.hoerbiger.com/en/",
-    "stickyContentTitle": "What I learnt",
-    "stickyContent": [
-      {
-        "title": "Collaborative development",
-        "description": "While I'm a solid Code Hermit, I'm also a strong team player. I've learned how to work effectively in a team, communicate clearly, and collaborate with others. I stay in the loop, align closely with QA, and integrate seamlessly with the team to achieve shared goals."
-      },
-      {
-        "title": "Real time changes",
-        "description": "I’m comfortable working in environments where code changes happen live and fast. Whether it’s pair programming, live share sessions, or collaborative commits, I stay sharp, communicate clearly, and adapt on the fly. Real-time coding keeps the momentum going, and I know how to keep things clean, conflict-free, and moving forward."
-      },
-      {
-        "title": "Version control",
-        "description": "I'm fluent in using Git for managing real-time code changes across collaborative projects. From branching strategies to conflict resolution, I ensure smooth merges and clean commit histories. I stay synced with the team, handle pull requests efficiently, and keep the codebase stable even in fast-paced environments. Real-time collaboration, without the chaos."
-      },
-      {
-        "title": "DevOps with Azure",
-        "description": "I'm getting hands-on with Azure DevOps — setting up pipelines, managing builds, and figuring out how to automate deployments. Still learning the ropes, but every commit is a step closer to smoother, smarter delivery."
-      },
-      {
-        "title": "Bug Fixing & Debugging",
-        "description": "I'm sharpening my skills in debugging and bug fixing — from reading error logs to tracing issues through the codebase. I enjoy digging into problems, understanding what’s really going on, and finding clean, reliable fixes. Every bug is a chance to learn more and write better code."
-      }
-    ]
-  },
-  {
-    "dateOfJoining": "2023-10-10",
-    "dateOfLeaving": "2025,10-10",
-    "title": "Software Engineer",
-    "company": "Hoerbiger India Pvt Ltd",
-    "location": "Pune, India",
-    "description": "As a Software Engineer at Hoerbiger, I’m diving deep into the world of real-time code changes and collaborative development. My focus is on mastering the tools and practices that make teamwork seamless, from version control with Git to DevOps with Azure. I’m all about writing clean, efficient code while staying in sync with my team, ensuring that every commit is a step towards better software delivery.",
-    "src": "https://mechatron00.github.io/portfolio-data/images/hoerbiger.png",
-    "ctaText": "View Company",
+    "ctaText": "View Company Website",
     "ctaLink": "https://www.hoerbiger.com/en/",
     "stickyContentTitle": "What I learnt",
     "stickyContent": [
