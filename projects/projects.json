@@ -8,7 +8,18 @@
       { "title": "MySQL", "icon": "database" }
     ],
     "bg": "bg-indigo-800",
-    "link": "https://live-weather-info.web.app/",
+    "link": "https://github.com/Mechatron00/resume-builder-fullstack",
     "thumbnail": "https://mechatron-portfolio.web.app/assets/project-images/resume-builder.png"
+  },
+  {
+    "title": "Weather App",
+    "description": "A simple weather application that provides current weather information for any location using OpenWeatherMap API.",
+    "icon": [
+      { "title": "Angular", "icon": "angular" },
+      { "title": "WeatherAPI", "icon": "api" }
+    ],
+    "bg": "bg-blue-800",
+    "link": "https://live-weather-info.web.app/",
+    "thumbnail": ""
   }
 ]
