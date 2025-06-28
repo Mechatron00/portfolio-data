@@ -16,7 +16,7 @@
     "description": "A simple weather application that provides current weather information for any location using OpenWeatherMap API.",
     "icon": [
       { "title": "Angular", "icon": "angular" },
-      { "title": "WeatherAPI", "icon": "api" }
+      { "title": "WeatherAPI", "icon": "plug" }
     ],
     "bg": "bg-blue-800",
     "link": "https://live-weather-info.web.app/",
