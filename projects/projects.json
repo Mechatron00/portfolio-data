@@ -20,7 +20,7 @@
     ],
     "bg": "bg-blue-800",
     "link": "https://live-weather-info.web.app/",
-    "thumbnail": ""
+    "thumbnail": "https://mechatron00.github.io/portfolio-data/images/projects/weatherApp.png"
   },
   {
     "title": "Airline-Reservation REST API",
@@ -30,7 +30,7 @@
       { "title": "MySQL", "icon": "database" }
     ],
     "bg": "bg-red-800",
-    "link": "https://live-weather-info.web.app/",
+    "link": "https://github.com/Mechatron00/Airline-Reservation-System",
     "thumbnail": ""
   }
 ]
