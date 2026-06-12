@@ -48,6 +48,14 @@
     "content": ""
   },
   {
+    "title": "MS Backend Developer",
+    "description": "Microsoft-certified Back-End Developer certificate.",
+    "src": "https://mechatron00.github.io/portfolio-data/images/certificates/15.png",
+    "ctaText": "View Certificate",
+    "ctaLink": "https://coursera.org/share/b6207a853b13a8b5f7443aeede870cf3",
+    "content": "Certified in back-end development with hands-on experience in .NET, C#, APIs, and databases.Focused on creating secure, scalable, and high-performance applications."
+  },
+  {
     "title": "HTML Essential Training",
     "description": "Certificate for HTML fundamentals and best practices.",
 
