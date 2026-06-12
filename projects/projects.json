@@ -32,5 +32,16 @@
     "bg": "bg-red-800",
     "link": "https://github.com/Mechatron00/Airline-Reservation-System",
     "thumbnail": ""
+  },
+  {
+    "title": "Airline-Reservation REST API",
+    "description": "A RESTful API for managing airline reservations, including flight schedules, bookings, and passenger information.",
+    "icon": [
+      { "title": "Java", "icon": "java" },
+      { "title": "MySQL", "icon": "database" }
+    ],
+    "bg": "bg-red-800",
+    "link": "https://github.com/Mechatron00/Airline-Reservation-System",
+    "thumbnail": ""
   }
 ]
